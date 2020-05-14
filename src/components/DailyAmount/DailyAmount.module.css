@@ -1,0 +1,19 @@
+.DailyAmount {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  border-bottom: 1cm;
+}
+
+.rowNum {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bigblue {
+  color: DodgerBlue;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
